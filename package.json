@@ -46,7 +46,7 @@
         "packages/*"
     ],
     "engines": {
-        "node": "^14.19.0 || ^16.10.0"
+        "node": "^14.19.0"
     },
     "repository": "git+https://github.com/Kaetram/Kaetram-Open.git",
     "bugs": {
