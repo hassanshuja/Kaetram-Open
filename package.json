@@ -46,7 +46,7 @@
         "packages/*"
     ],
     "engines": {
-        "yarn": "3.x"
+        "yarn": "1.x"
     },
     "repository": "git+https://github.com/Kaetram/Kaetram-Open.git",
     "bugs": {
